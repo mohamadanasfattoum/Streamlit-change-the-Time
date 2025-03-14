@@ -1,4 +1,4 @@
-# Caching
+# session_state
 # streamlit run 06.py
 
 import streamlit as st
